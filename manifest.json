@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+{
+  "files": [
+    {
+      "path": "Data/patch-6.MPQ",
+      "sha256": "b4241a7a3d673a54a77edd096c0e6855c31aa2883b671104f052225331507b34",
+      "size": 1853388390,
+      "url": "https://github.com/Crittomatss/wow-patches/releases/download/patch-6.MPQ/patch-6.MPQ"
+    },
+    {
+      "path": "Data/Patch-D.MPQ",
+      "sha256": "65a568157df5b5ca93a4c930bc60d516898e7d05b21c2b795ef5a18681cdd470",
+      "size": 146800640,
+      "url": "https://github.com/Crittomatss/wow-patches/releases/download/Patch-D.MPQ/Patch-D.MPQ"
+    },
+    {
+      "path": "Data/patch-I.MPQ",
+      "sha256": "43218e7f07fdffeafc115f2401999010b46c008dbe60af11b62a3f50fa93f71e",
+      "size": 418381824,
+      "url": "https://github.com/Crittomatss/wow-patches/releases/download/patch-I.MPQ/patch-I.MPQ"
+    },
+    {
+      "path": "Data/patch-J.MPQ",
+      "sha256": "1a487c50729c0c7849ec0954bcc460eec97d326ac6176cac495232dafc499a99",
+      "size": 233308160,
+      "url": "https://github.com/Crittomatss/wow-patches/releases/download/patch-J.MPQ/patch-J.MPQ"
+    },
+    {
+      "path": "Data/Patch-S.MPQ",
+      "sha256": "e21f6367dee9663e878a3c0398651b16f92894e4f426199fc651480782802390",
+      "size": 2146304,
+      "url": "https://github.com/Crittomatss/wow-patches/releases/download/Patch-S.MPQ/Patch-S.MPQ"
+    },
+    {
+      "path": "Data/Patch-Z.MPQ",
+      "sha256": "0c1b0cd6d03ff330fc564b3a7b2954dc7969b9019d18c4dca00fa55ad843f8e5",
+      "size": 325632,
+      "url": "https://github.com/Crittomatss/wow-patches/releases/download/Patch-Z.MPQ/Patch-Z.MPQ"
+    },
+    {
+      "path": "Data/ruRU/patch-ruRU-C.MPQ",
+      "sha256": "a02649920bab1b7367a6e57f96cd7ff4783b612fe81eb18654645901270b5aa0",
+      "size": 80530636,
+      "url": "https://github.com/Crittomatss/wow-patches/releases/download/patch-ruRU-C.MPQ/patch-ruRU-C.MPQ"
+    },
+    {
+      "path": "Data/ruRU/patch-ruRU-L.MPQ",
+      "sha256": "018fcf9b8245029e950d6ce79558c9d2b870b55eca6bd434c628ddce0f10dd81",
+      "size": 265289728,
+      "url": "https://github.com/Crittomatss/wow-patches/releases/download/patch-ruRU-L.MPQ/patch-ruRU-L.MPQ"
+    },
+    {
+      "path": "Data/ruRU/patch-ruRU-W.MPQ",
+      "sha256": "9ac038ce95a263025610423dfafc49a7521289424bcc9fa98dac42d1dc0b2749",
+      "size": 29491200,
+      "url": "https://github.com/Crittomatss/wow-patches/releases/download/patch-ruRU-W.MPQ/patch-ruRU-W.MPQ"
+    }
+  ]
+}
