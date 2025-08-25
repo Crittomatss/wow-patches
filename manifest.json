@@ -1,6 +1,5 @@
 {
   "version": "1.0.0",
-{
   "files": [
     {
       "path": "Data/patch-6.MPQ",
@@ -50,11 +49,11 @@
       "size": 265289728,
       "url": "https://github.com/Crittomatss/wow-patches/releases/download/patch-ruRU-L.MPQ/patch-ruRU-L.MPQ"
     },
-    {
-      "path": "Data/ruRU/patch-ruRU-W.MPQ",
-      "sha256": "9ac038ce95a263025610423dfafc49a7521289424bcc9fa98dac42d1dc0b2749",
-      "size": 29491200,
-      "url": "https://github.com/Crittomatss/wow-patches/releases/download/patch-ruRU-W.MPQ/patch-ruRU-W.MPQ"
-    }
-  ]
+      {
+          "path": "Data/ruRU/patch-ruRU-W.MPQ",
+          "sha256": "9ac038ce95a263025610423dfafc49a7521289424bcc9fa98dac42d1dc0b2749",
+          "size": 29491200,
+          "url": "https://github.com/Crittomatss/wow-patches/releases/download/patch-ruRU-W.MPQ/patch-ruRU-W.MPQ"
+      }
+]
 }
